@@ -1,0 +1,9 @@
+# Sriram J
+
+- Full name: Sriram J
+- Father's name: Jayaram
+- Hometown: Thoothukudi
+- Education: BE in Computer Science and Engineering, Info Institute of Engineering
+- Skills: Python, Machine Learning, Generative AI
+- Final-year college project: Emotion-aware AI chatbot
+- Hobby: Driving
